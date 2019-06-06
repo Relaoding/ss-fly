@@ -2,7 +2,7 @@
 ---
 
 一键脚本搭建shadowsocks/shadowsocksR/V2Ray + 设置开启自启动 + 升级内核&开启bbr加速。
-   git clone https://github.com/suniceman/ss-fly
+   git clone https://github.com/Relaoding/ss-fly
     ss-fly/ss-fly.sh -i password7 1024
 ## 教程如何访问
 [Suniceman小站](https://suniceman.com/2019/04/10/install-shadowsocks-in-one-command/)
